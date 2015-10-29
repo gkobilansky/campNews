@@ -2709,6 +2709,17 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/images\/Fullscreen_10_29_15__12_06_PM.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 210449,
+		"inputAbbreviatedPath": "\/images\/Fullscreen_10_29_15__12_06_PM.png",
+		"outputAbbreviatedPath": "\/images\/Fullscreen_10_29_15__12_06_PM.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,

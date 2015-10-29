@@ -2720,6 +2720,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/Fullscreen_10_29_15__12_49_PM.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 358895,
+		"inputAbbreviatedPath": "\/images\/Fullscreen_10_29_15__12_49_PM.png",
+		"outputAbbreviatedPath": "\/images\/Fullscreen_10_29_15__12_49_PM.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/Fullscreen_10_29_15__12_51_PM.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 276204,
+		"inputAbbreviatedPath": "\/images\/Fullscreen_10_29_15__12_51_PM.png",
+		"outputAbbreviatedPath": "\/images\/Fullscreen_10_29_15__12_51_PM.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
